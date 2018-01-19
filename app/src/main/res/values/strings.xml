@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DownLoadFileApp</string>
+
+    <string name="file_path">文件下载的地址</string>
+
+    <string name="file_name">文件路径</string>
+
+    <string name="download">点击下载</string>
+</resources>
